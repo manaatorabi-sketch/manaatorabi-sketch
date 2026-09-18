@@ -1,4 +1,4 @@
-<img src='./image.jpg' alt='image' />
+<img src='./image.jpg'  />
 <h1 align='center'># Hi, I'm Mana 👋</h1>
 💻 Aspiring Software Developer  
 🌱 Currently learning Web Development & JavaScript  
