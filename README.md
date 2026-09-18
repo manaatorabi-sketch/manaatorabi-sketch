@@ -35,8 +35,3 @@ A responsive website built with HTML, CSS and Bootstrap.
 <h3>My Experience</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery' alt="My Experience"/>
 
-
-
----
-
-⭐ Thanks for visiting my profile!
