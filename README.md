@@ -34,7 +34,7 @@ A responsive website built with HTML, CSS and Bootstrap.
 ## 🎯 My Goal
 
 To become a professional software developer and continue growing through an IT Ausbildung and real-world projects.
-
+<hr>
 <h3>My Experience</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery' alt="My Experience"/>
 
