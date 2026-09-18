@@ -1,5 +1,5 @@
 
-  <img src='../image.jpg' alt='image' width='250px' />
+  [Mana logo](profile-logo.jpg)
   <div align='center'>
 # Hi, I'm Mana 👋
     </div>
