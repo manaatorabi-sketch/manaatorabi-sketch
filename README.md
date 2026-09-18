@@ -9,7 +9,7 @@
 
 💻 Aspiring Software Developer  
 🌱 Currently learning Web Development & JavaScript  
-🇩🇪 Preparing for a future IT Ausbildung in Germany
+
 
 ## 🛠️ Skills & Technologies
 
@@ -17,6 +17,7 @@
 - CSS
 - JavaScript
 - Bootstrap
+- Jquery
 - Git & GitHub
 
 ## 🚀 Projects
