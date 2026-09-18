@@ -1,5 +1,4 @@
- <div align='center'>
-  <img src='./logo.jpg' alt='image' width='250px' />
+<img src="logo.jpg" alt="Mana Logo" width="250px" style="border-radius: 50%;" />
 # Hi, I'm Mana 👋
     </div>
 💻 Aspiring Software Developer  
