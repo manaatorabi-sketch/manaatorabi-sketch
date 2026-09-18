@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align='center'># Hi, I'm Mana 👋</h1>
 
-<!--
-**manaatorabi-sketch/manaatorabi-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🌱 Currently learning Web Development & JavaScript  
+🇩🇪 Preparing for a future IT Ausbildung in Germany
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 🚀 Projects
+
+### 🐤 Canary Sara
+A responsive website built with HTML, CSS and Bootstrap.
+
+## 📚 Currently Learning
+
+- JavaScript
+- Web Development
+- Git & GitHub
+- German
+
+## 🎯 My Goal
+
+To become a professional software developer and continue growing through an IT Ausbildung and real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
