@@ -1,6 +1,12 @@
+
+<div align="center">
+
 <img src="logo.jpg" alt="Mana Logo" width="250px" style="border-radius: 50%;" />
+
 # Hi, I'm Mana 👋
-    </div>
+
+</div>
+
 💻 Aspiring Software Developer  
 🌱 Currently learning Web Development & JavaScript  
 🇩🇪 Preparing for a future IT Ausbildung in Germany
