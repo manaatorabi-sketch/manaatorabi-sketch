@@ -1,6 +1,8 @@
-<div align='center'>
+
   <img src='./image.jpg' alt='image' width='250px' />
+  <div align='center'>
 # Hi, I'm Mana 👋
+    </div>
 💻 Aspiring Software Developer  
 🌱 Currently learning Web Development & JavaScript  
 🇩🇪 Preparing for a future IT Ausbildung in Germany
@@ -30,7 +32,7 @@ A responsive website built with HTML, CSS and Bootstrap.
 To become a professional software developer and continue growing through an IT Ausbildung and real-world projects.
 
 
-</div>
+
 
 ---
 
