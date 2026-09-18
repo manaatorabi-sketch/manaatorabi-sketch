@@ -1,5 +1,5 @@
+<img src='./image.jpg' alt='image' />
 <h1 align='center'># Hi, I'm Mana 👋</h1>
-
 💻 Aspiring Software Developer  
 🌱 Currently learning Web Development & JavaScript  
 🇩🇪 Preparing for a future IT Ausbildung in Germany
