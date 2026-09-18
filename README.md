@@ -1,6 +1,6 @@
-
+ <div align='center'>
   <img src='./logo.jpg' alt='image' width='250px' />
-  <div align='center'>
+ 
 # Hi, I'm Mana 👋
     </div>
 💻 Aspiring Software Developer  
