@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Mana Logo<br>Hi, I'm Mana 👋<br>💻 Aspiring Software Developer<br>🌱 Currently learning Web Development & JavaScript<br><br>🛠️ Skills & Technologies<br>HTML<br>CSS<br>JavaScript<br>Bootstrap<br>Jquery<br>Git & GitHub<br>🚀 Projects<br>🐤 Canary Sara<br>A responsive website built with HTML, CSS and Bootstrap.<br><br>📚 Currently Learning<br>JavaScript<br>Web Development<br>Git & GitHub<br>German<br>My Experience<br>My Experience
 
 
