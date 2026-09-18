@@ -1,5 +1,5 @@
 
-  <img src='./image.jpg' alt='image' width='250px' />
+  <img src='../image.jpg' alt='image' width='250px' />
   <div align='center'>
 # Hi, I'm Mana 👋
     </div>
